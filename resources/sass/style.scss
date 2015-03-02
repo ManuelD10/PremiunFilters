@@ -2,6 +2,7 @@ body{
 	background: -webkit-linear-gradient(180deg,#CFE2EB,#9DAEB9);
 	background: -o-linear-gradient(180deg,#CFE2EB,#9DAEB9);
 	background: -moz-linear-gradient(180deg,#CFE2EB,#9DAEB9);
+	background: linear-gradient(180deg,#CFE2EB,#9DAEB9);
 	margin: 0px;
 	padding: 0px;
 }
@@ -9,6 +10,7 @@ body{
 	background: -webkit-linear-gradient(#0F2837,#000000);
 	background: -o-linear-gradient(#0F2837,#000000);
 	background: -moz-linear-gradient(#0F2837,#000000);
+	background: linear-gradient(#0F2837,#000000);
 	height: 70px;
 	width: 100%;
 }
@@ -16,6 +18,7 @@ body{
 	background: -webkit-linear-gradient(#122F40,#1C4F6C);
 	background: -o-linear-gradient(#122F40,#1C4F6C);
 	background: -moz-linear-gradient(#122F40,#1C4F6C);
+	background: linear-gradient(#122F40,#1C4F6C);
 	height: 127px;
 	margin: 0 auto;
 	width: 1232px;
@@ -51,6 +54,7 @@ body{
 	background: -webkit-linear-gradient(#718894,#425662);
 	background: -o-linear-gradient(#718894,#425662);
 	background: -moz-linear-gradient(#718894,#425662);
+	background: linear-gradient(#718894,#425662);
 	border-left: 1px solid #4C5E68;
 	border-right: 1px solid #B0C2CC;
 	color: white;
@@ -67,6 +71,7 @@ body{
 		background: -webkit-linear-gradient(#627680,#34454E);
 		background: -o-linear-gradient(#627680,#34454E);
 		background: -moz-linear-gradient(#627680,#34454E);
+		background: linear-gradient(#627680,#34454E);
 	}
 }
 .icon-home{
@@ -92,6 +97,7 @@ body{
 	background: -webkit-linear-gradient(#1C4F6C,#122F40);
 	background: -o-linear-gradient(#1C4F6C,#122F40);
 	background: -moz-linear-gradient(#1C4F6C,#122F40);
+	background: linear-gradient(#1C4F6C,#122F40);
 	color: white;
 	font-size: 15px;
 	font-family: myriad pro;
@@ -235,20 +241,23 @@ background:whitesmoke;
 opacity:.75;
 }
 .dress{
-	font-size: 18px;
+	color: white;
+	font-size: 12px;
 	text-align: center;
 	font-family: myriad pro;
-	width: 610px;
+	text-align: center;
 	height: 23px;
 	float: left;
 	font-weight: bold;
 	margin-left: 353px;
-	margin-top: 5px;
+	margin-top: -27px;
+	width: 610px;
 }
 .footer{
 	background: -webkit-linear-gradient(#1C4F6C,#122F40);
 	background: -o-linear-gradient(#1C4F6C,#122F40);
 	background: -moz-linear-gradient(#1C4F6C,#122F40);
+	background: linear-gradient(#1C4F6C,#122F40);
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
 	position: absolute;
@@ -274,18 +283,20 @@ opacity:.75;
 }
 /*------------INTERNAS-------------*/
 .pages-internas{
-	background: url(../images/background-internas.png);
-	border-radius: 10px;
+/*	background: url(../images/background-internas.png);
+	border-radius: 10px;*/
 	float: left;
-	height: 453px;
+	/*height: 453px;*/
 	margin-left: 30px;
 	margin-top: -19px;
 	width: 889px;
 }
 .title-pedidos{
+	background: linear-gradient(#0F2837,#000000);
 	background: -webkit-linear-gradient(#0F2837,#000000);
 	background: -o-linear-gradient(#0F2837,#000000);
 	background: -moz-linear-gradient(#0F2837,#000000);
+	background: linear-gradient(#0F2837,#000000);
 	border-top-left-radius: 8px;
 	border-top-right-radius: 8px;
 	color: white;
@@ -314,6 +325,7 @@ opacity:.75;
 	background: -webkit-linear-gradient(#0F2837,#000000);
 	background: -o-linear-gradient(#0F2837,#000000);
 	background: -moz-linear-gradient(#0F2837,#000000);
+	background: linear-gradient(#0F2837,#000000);
 	color: white;
 	font-weight: bold;
 	font-family: myriad pro;
@@ -333,6 +345,7 @@ opacity:.75;
 	background: -webkit-linear-gradient(#0F2837,#000000);
 	background: -o-linear-gradient(#0F2837,#000000);
 	background: -moz-linear-gradient(#0F2837,#000000);
+	background: linear-gradient(#0F2837,#000000);
 	border-radius: 5px;
 	width: 140px;
 	text-align: center;
@@ -350,12 +363,14 @@ opacity:.75;
 		background: -webkit-linear-gradient(#16303e,#000000);
 		background: -o-linear-gradient(#16303e,#000000);
 		background: -moz-linear-gradient(#16303e,#000000);
+		background: linear-gradient(#16303e,#000000);
 	}
 }
 .title-contactenos{
 	background: -webkit-linear-gradient(#0F2837,#000000);
 	background: -o-linear-gradient(#0F2837,#000000);
 	background: -moz-linear-gradient(#0F2837,#000000);
+	background: linear-gradient(#0F2837,#000000);
 	border-top-left-radius: 8px;
 	border-top-right-radius: 8px;
 	color: white;
@@ -431,6 +446,7 @@ opacity:.75;
 	background: -webkit-linear-gradient(#0F2837,#000000);
 	background: -o-linear-gradient(#0F2837,#000000);
 	background: -moz-linear-gradient(#0F2837,#000000);
+	background: linear-gradient(#0F2837,#000000);
 	color: #fabc2f;
 	border-radius: 8px;
 	font-weight: bold;
@@ -480,11 +496,11 @@ opacity:.75;
 	position: relative;
 }
 .pbx{
-	font-size: 21px;
+	font-size: 18px;
 	font-family: myriad pro;
 	float: left;
 	margin-left: 581px;
-	margin-top: -43px;
+	margin-top: -50px;
 	font-weight: bold;
 }
 
